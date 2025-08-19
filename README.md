@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @timbootstrapping
-- 👀 I’m interested in Business, Start-Ups, AI and Fitness
-- 🌱 I’m currently building talkembed, a microSaaS that enables users to easily embed a Voice AI Agent on their website
-- 📫 How to reach me linkedin @timkramny
-- ⚡ Fun fact: I don't really know how to code. Mostly leveraging AI lol
+👋 Hi, I’m @timbootstrapping
+👀 I’m interested in Business, Start-Ups, AI and Fitness
+🌱 I’m currently building ximus.io & gen8n.dev
+📫 How to reach me linkedin @timkramny
+
 
 <!---
 timbootstrapping/timbootstrapping is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
